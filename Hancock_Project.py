@@ -2,7 +2,7 @@
 # Xhoi Shyti *** Anchor Mechanical
 #
 #
-# This program calculates averages and based on measurements from various HVAC systems in the Hancock Building
+# This program calculates averages based on measurements from various HVAC systems in the Hancock Building
 # Takes a CSV file as input and writes the result for each room to a new CSV file
 
 
