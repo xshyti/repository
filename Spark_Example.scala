@@ -7,13 +7,6 @@
 // Language: Scala
 // Framework: Apache Spark
 
-<dependency>
-  <groupId>org.apache.spark</groupId>
-  <artifactId>spark-core_2.11</artifactId>
-  <version>${spark.version}</version>
-  <scope>provided</scope>
-</dependency>
-
 import org.apache.spark.SparkContext
 import org.apache.spark.SparkContext._
 import org.apache.spark.SparkConf
